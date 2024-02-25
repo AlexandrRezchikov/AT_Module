@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c111e8d9-2a83-444d-8e88-ab67c4b6a76f" name="Changes" comment="groups = &quot;smoke&quot;">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/rntgroup/BaseTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/calculator-1.0.jar!/com/epam/tat/module4/Calculator.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cPup6shEwLxJpDcaKQjZi6Ui7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Module 2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\RNTgroup\AT\AT_Module_1\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.rntgroup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/RNTgroup/AT/AT_Module_1/src/test/resources/smoke.xml">
+    <configuration name="ArithmeticFunctionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rntgroup.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rntgroup" />
+      <option name="MAIN_CLASS_NAME" value="org.rntgroup.test.ArithmeticFunctionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/RNTgroup/AT/AT_Module_1/src/test/resources/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Module_1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/smoke.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/RNTgroup/AT/AT_Module_1/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Module_1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingDefinitionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rntgroup.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rntgroup.test" />
+      <option name="MAIN_CLASS_NAME" value="org.rntgroup.test.SingDefinitionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrigonometricFunctionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Module_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rntgroup.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.rntgroup.test" />
+      <option name="MAIN_CLASS_NAME" value="org.rntgroup.test.TrigonometricFunctionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/RNTgroup/AT/AT_Module_1/src/test/resources/smoke.xml" />
+        <item itemvalue="TestNG.ArithmeticFunctionTests" />
+        <item itemvalue="TestNG.E:/RNTgroup/AT/AT_Module_1/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.SingDefinitionTest" />
+        <item itemvalue="TestNG.TrigonometricFunctionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c111e8d9-2a83-444d-8e88-ab67c4b6a76f" name="Changes" comment="" />
+      <created>1708025719335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708025719335</updated>
+    </task>
+    <task id="LOCAL-00001" summary="groups = &quot;smoke&quot;">
+      <created>1708544264090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708544264090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="groups = &quot;smoke&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="groups = &quot;smoke&quot;" />
+  </component>
+</project>

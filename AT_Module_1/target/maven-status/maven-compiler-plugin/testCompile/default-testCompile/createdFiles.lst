@@ -1,0 +1,6 @@
+org\rntgroup\test\TrigonometricFunctionTest.class
+org\rntgroup\test\ArithmeticFunctionTests.class
+org\rntgroup\StaticDataProvider.class
+org\rntgroup\test\PowerFunctionTest.class
+org\rntgroup\test\SingDefinitionTest.class
+org\rntgroup\BaseTest.class

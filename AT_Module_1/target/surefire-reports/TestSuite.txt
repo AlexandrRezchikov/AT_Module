@@ -1,0 +1,93 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 1.186 sec <<< FAILURE!
+unitPowTest(org.rntgroup.test.PowerFunctionTest)  Time elapsed: 0.018 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [46.7653718] but found [27.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.PowerFunctionTest.unitPowTest(PowerFunctionTest.java:15)
+
+unitSqrtNegativeNumbersTest(org.rntgroup.test.PowerFunctionTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.AssertionError: Expected exception not throw
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.rntgroup.test.PowerFunctionTest.unitSqrtNegativeNumbersTest(PowerFunctionTest.java:30)
+
+unitCosTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.5] but found [0.8660254037844386]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCosTest(TrigonometricFunctionTest.java:23)
+
+unitCosTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [-1.0] but found [-1.2246467991473532E-16]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCosTest(TrigonometricFunctionTest.java:23)
+
+unitCosTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [1.0] but found [0.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCosTest(TrigonometricFunctionTest.java:23)
+
+unitCtgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.0] but found [0.9171523356672744]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCtgTest(TrigonometricFunctionTest.java:39)
+
+unitCtgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.404] but found [0.9606886408725873]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCtgTest(TrigonometricFunctionTest.java:39)
+
+unitCtgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [-1.0] but found [-0.6557942026326724]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitCtgTest(TrigonometricFunctionTest.java:39)
+
+unitSinTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.5] but found [0.49999999999999994]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitSinTest(TrigonometricFunctionTest.java:15)
+
+unitTgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.0] but found [1.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitTgTest(TrigonometricFunctionTest.java:31)
+
+unitTgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.364] but found [1.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitTgTest(TrigonometricFunctionTest.java:31)
+
+unitTgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [0.0] but found [1.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitTgTest(TrigonometricFunctionTest.java:31)
+
+unitTgTest(org.rntgroup.test.TrigonometricFunctionTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: Result is not correct! expected [-1.0] but found [1.0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEquals(Assert.java:728)
+	at org.rntgroup.test.TrigonometricFunctionTest.unitTgTest(TrigonometricFunctionTest.java:31)
+
